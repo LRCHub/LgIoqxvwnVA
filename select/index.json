@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "cosmos",
+  "base_artist": "Awesome City Club",
+  "createdAt": "2026-02-17T13:23:36.109696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Am the Cosmos",
+      "artist": "Chris Bell",
+      "has_synced": false,
+      "path": "select/01_I_Am_the_Cosmos_Chris_Bell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cosmos",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/02_Cosmos_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come On Riding (Through The Cosmos)",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/03_Come_On_Riding_(Through_The_Cosmos)_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fish Bowl (Frankie Cosmos Remix)",
+      "artist": "Kero Kero Bonito",
+      "has_synced": false,
+      "path": "select/04_Fish_Bowl_(Frankie_Cosmos_Remix)_Kero_Kero_Bonito.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cosmos",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/05_Cosmos_Scooter.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Am the Cosmos (Slow Version)",
+      "artist": "Chris Bell",
+      "has_synced": true,
+      "path": "select/06_I_Am_the_Cosmos_(Slow_Version)_Chris_Bell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cosmos and Demos",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/07_Cosmos_and_Demos_Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Utopia (Tom Middleton's Cosmos vocal mix)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/08_Utopia_(Tom_Middleton's_Cosmos_vocal_mix)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Utopia (Tom Middletons Cosmos Vocal Mix)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/09_Utopia_(Tom_Middletons_Cosmos_Vocal_Mix)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cosmos Silence",
+      "artist": "Decoryah",
+      "has_synced": false,
+      "path": "select/10_Cosmos_Silence_Decoryah.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Am The Cosmos",
+      "artist": "Pete Yorn & Scarlett Johansson",
+      "has_synced": true,
+      "path": "select/11_I_Am_The_Cosmos_Pete_Yorn_&_Scarlett_Johansson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cosmos (Outer Space)",
+      "artist": "t.A.T.u.",
+      "has_synced": true,
+      "path": "select/12_Cosmos_(Outer_Space)_t.A.T.u..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cosmos (Outer Space)",
+      "artist": "t.A.T.u.",
+      "has_synced": true,
+      "path": "select/13_Cosmos_(Outer_Space)_t.A.T.u..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "cosmos",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/pl_01_cosmos_Awesome_City_Club.txt"
+    }
+  ]
+}
